@@ -1,0 +1,9 @@
+FinBERT-
+1)https://arxiv.org/abs/2410.01987
+2)https://openreview.net/forum?id=HylznxrYDr
+3)https://ieeexplore.ieee.org/document/10494517
+4)
+
+*** (5)https://ieeexplore.ieee.org/document/9659283
+    This is the most imortant paper 
+    Directly implementation of our approach but with LSTM as Funda. Analysis

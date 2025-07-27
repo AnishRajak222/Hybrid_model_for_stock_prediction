@@ -1,0 +1,170 @@
+{
+    "HCL TECH": {
+        "Model Weights": {
+            "LSTM Prediction": 0.013317729220800514,
+            "LR Prediction": 0.6704918300549959,
+            "GRU Prediction": 0.0518740050059293,
+            "BiLSTM Prediction": 0.2581098685562127,
+            "Arima Prediction": 0.0062065671620615435
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.5676722830437457,
+            "FinBERT Score": 0.017127967999613698,
+            "LM Score": 0.41519974895664064
+        }
+    },
+    "INFOSYS": {
+        "Model Weights": {
+            "LSTM Prediction": 0.02071229861991219,
+            "LR Prediction": 0.5810264251672626,
+            "GRU Prediction": 0.023429126517922574,
+            "BiLSTM Prediction": 0.34465328264117706,
+            "Arima Prediction": 0.03017886705372549
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.5041551606770573,
+            "FinBERT Score": 0.002514993594826303,
+            "LM Score": 0.49332984572811633
+        }
+    },
+    "TCS": {
+        "Model Weights": {
+            "LSTM Prediction": 0.005570852651585363,
+            "LR Prediction": 0.4783714242103977,
+            "GRU Prediction": 0.04795859278934961,
+            "BiLSTM Prediction": 0.4454261206313562,
+            "Arima Prediction": 0.02267300971731115
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.5682885294264677,
+            "FinBERT Score": 0.007395059155275729,
+            "LM Score": 0.42431641141825654
+        }
+    },
+    "WIPRO": {
+        "Model Weights": {
+            "LSTM Prediction": 0.013197321554696563,
+            "LR Prediction": 0.7801688121559129,
+            "GRU Prediction": 0.03205844047282453,
+            "BiLSTM Prediction": 0.1054772120443495,
+            "Arima Prediction": 0.06909821377221645
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.8541373013324135,
+            "FinBERT Score": 0.001795681215374295,
+            "LM Score": 0.1440670174522122
+        }
+    },
+    "Tech Mahindra": {
+        "Model Weights": {
+            "LSTM Prediction": 0.024588502506050443,
+            "LR Prediction": 0.7843641624204717,
+            "GRU Prediction": 0.06837743374143652,
+            "BiLSTM Prediction": 0.1048453353334569,
+            "Arima Prediction": 0.01782456599858439
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.7907939581976856,
+            "FinBERT Score": 0.04007668124314486,
+            "LM Score": 0.16912936055916955
+        }
+    },
+    "LTIMindtree": {
+        "Model Weights": {
+            "LSTM Prediction": 0.017072651920231337,
+            "LR Prediction": 0.734970333166446,
+            "GRU Prediction": 0.02573030734352,
+            "BiLSTM Prediction": 0.1449889701301877,
+            "Arima Prediction": 0.07723773743961507
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.6369189216415873,
+            "FinBERT Score": 0.01554043110893296,
+            "LM Score": 0.34754064724947986
+        }
+    },
+    "Persistent Systems": {
+        "Model Weights": {
+            "LSTM Prediction": 0.04118489238816658,
+            "LR Prediction": 0.6795300444496404,
+            "GRU Prediction": 0.014828822984369933,
+            "BiLSTM Prediction": 0.26046753816527946,
+            "Arima Prediction": 0.003988702012543647
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.7859873276021173,
+            "FinBERT Score": 0.030395302991834357,
+            "LM Score": 0.1836173694060484
+        }
+    },
+    "Oracle Financial Services": {
+        "Model Weights": {
+            "LSTM Prediction": 0.006365519061614289,
+            "LR Prediction": 0.5216385300048163,
+            "GRU Prediction": 0.01034024369238374,
+            "BiLSTM Prediction": 0.06620929258664168,
+            "Arima Prediction": 0.395446414654544
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.122809883047645,
+            "FinBERT Score": 0.02005023858270524,
+            "LM Score": 0.8571398783696498
+        }
+    },
+    "Policy Bazar": {
+        "Model Weights": {
+            "LSTM Prediction": 0.035387493326681015,
+            "LR Prediction": 0.7713829288028597,
+            "GRU Prediction": 0.08980328806901812,
+            "BiLSTM Prediction": 0.09575203951887905,
+            "Arima Prediction": 0.007674250282562105
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.8977250142754778,
+            "FinBERT Score": 0.01310941139060255,
+            "LM Score": 0.08916557433391967
+        }
+    },
+    "Sasken Tech": {
+        "Model Weights": {
+            "LSTM Prediction": 0.011916968942414863,
+            "LR Prediction": 0.597687828712689,
+            "GRU Prediction": 0.07581354907803035,
+            "BiLSTM Prediction": 0.169419420802227,
+            "Arima Prediction": 0.14516223246463889
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.7469908380865133,
+            "FinBERT Score": 0.008797354846051713,
+            "LM Score": 0.244211807067435
+        }
+    },
+    "Quick Heal": {
+        "Model Weights": {
+            "LSTM Prediction": 0.004378678759101809,
+            "LR Prediction": 0.8734885442091173,
+            "GRU Prediction": 0.06686639249319831,
+            "BiLSTM Prediction": 0.045007606284619806,
+            "Arima Prediction": 0.010258778253962708
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.8510364129806924,
+            "FinBERT Score": 0.0028467936896357923,
+            "LM Score": 0.14611679332967173
+        }
+    },
+    "Birlasoft": {
+        "Model Weights": {
+            "LSTM Prediction": 0.0010422282350572131,
+            "LR Prediction": 0.02751992128012018,
+            "GRU Prediction": 0.04411259991167885,
+            "BiLSTM Prediction": 0.8254868898252469,
+            "Arima Prediction": 0.10183836074789684
+        },
+        "Sentiment Weights": {
+            "VADER Score": 0.0001698436390571345,
+            "FinBERT Score": 0.002717548972739259,
+            "LM Score": 0.9971126073882036
+        }
+    }
+}
